@@ -1,5 +1,3 @@
-// Import stylesheets
-import './style.css';
 import { walkerCell } from './Cell';
 
 // Write TypeScript code!
